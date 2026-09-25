@@ -25,7 +25,7 @@ const pages = [
 },
 
 {
-    image:"images/5.jpg",
+    image:"images/5.jpg?v=2",
     title:"💘",
     text:"เค้าไม่รู้ว่าอนาคตจะพาเราไปเจออะไรบ้าง แต่สิ่งหนึ่งที่รู้คือ🫂"
 },
