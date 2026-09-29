@@ -1,7 +1,7 @@
 const pages = [
 
 {
-    image:"images/1.jpg",
+    image:"images/1.jpg?v=2",
     title:"🎂 Happy Birthday to you🎂",
     text:"Happy Birthday to you ❤️"
 },
