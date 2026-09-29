@@ -1,7 +1,7 @@
 const pages = [
 
 {
-    image:"images/1.jpg",
+    image:"images/1.jpg?v=2",
     title:"🎂 Happy Birthday to you🎂",
     text:"Happy Birthday to you ❤️"
 },
@@ -13,13 +13,13 @@ const pages = [
 },
 
 {
-    image:"images/3.jpg",
+    image:"images/3.jpg?v=2",
     title:"💐",
     text:"Wishing you a wonderful birthday and a fantastic year ahead\n ❤️"
 },
 
 {
-    image:"images/4.jpg",
+    image:"images/4.jpg?v=2",
     title:"💘",
     text:"I wish you happiness,joy,and\nmany more years of good health🤍"
 },
